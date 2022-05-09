@@ -17,7 +17,7 @@
   "license": "MIT",
   "homepage": "https://github.com/MaxToyberman/react-native-ssl-pinning#README",
   "peerDependencies": {
-    "react-native": "^0.41.2 || ^0.66.4"
+    "react-native": "^0.41.2 || ^0.66.4 || ^0.68.1"
   },
   "repository": {
     "type": "git",
